@@ -1,4 +1,4 @@
-# IDS705_ML_Final_Project_Cardiovasular_Disease
+# IDS705 ML Final Project: Cardiovasular Disease
 
 
 
